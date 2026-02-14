@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "しんかしんかしんか",
+  "base_artist": "原口沙輔",
+  "createdAt": "2026-02-14T19:44:28.293541Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しんかしんかしんか (feat. 初音ミク)",
+      "artist": "原口沙輔",
+      "has_synced": false,
+      "path": "select/pl_01_しんかしんかしんか_(feat._初音ミク)_原口沙輔.txt"
+    }
+  ]
+}
